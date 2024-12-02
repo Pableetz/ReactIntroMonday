@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nom": "Francis",
+      "prenom": "Huster"
+    },
+    {
+      "id": "2",
+      "nom": "Mylène",
+      "prenom": "Farmer"
+    },
+    {
+      "id": "3",
+      "nom": "Michel",
+      "prenom": "Sardine"
+    },
+    {
+      "id": "4",
+      "nom": "Elie",
+      "prenom": "Yaffazzz"
+    },
+    {
+      "id": "2fda",
+      "nom": "Michel",
+      "prenom": "Galabru"
+    }
+  ]
+}
