@@ -10,7 +10,7 @@ const Login = () => {
   const handleLogin = () => {
     if (email === "dupuispablo@gmail.com" && password === "1234") {
       alert("Vous êtes connecté");
-      navigate("/users");
+      navigate("/footballers");
     } else {
       alert("Email ou mot de passe incorrect");
     }

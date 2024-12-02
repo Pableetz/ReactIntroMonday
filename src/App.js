@@ -7,6 +7,7 @@ import Users from "./Components/Users/Users";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Login from "./Components/Login/Login";
 import Wrapper from "./Components/Wrapper/Wrapper";
+import Footballers from "./Components/Footballers/Footballers";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
             <Route path="/users" element={<Users />} />
             <Route path="/count" element={<Count />} />
             <Route path="/jokes" element={<Jokes />} />
+            <Route path="/footballers" element={<Footballers />} />
           </Routes>
         </Wrapper>
       </BrowserRouter>
